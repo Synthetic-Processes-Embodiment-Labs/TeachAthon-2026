@@ -5,6 +5,8 @@ Welcome to the official repository for **TeachAthon 2026**, hosted by the **Synt
 This public space serves as a permanent digital journal showcasing the shortlisted submissions, innovative teaching tools, and collaborative educational projects developed during this year's event.
 
 ---
+See the [opening slides](./teachAthon_26_admin.pdf) for event details, deadlines, prizes and submission requirements.
+---
 
 ## 📌 Status: In Development
 
