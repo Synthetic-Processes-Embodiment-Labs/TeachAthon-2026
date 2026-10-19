@@ -1,5 +1,7 @@
 # TeachAthon 2026
 
+Submission form will be made available HERE before noon TUESDAY 20th (waiting for registration to close Monday midnight).
+---
 Welcome to the official repository for **TeachAthon 2026**, hosted by the **Synthetic Processes & Embodiment Labs (SPEL)**.
 
 This public space serves as a permanent digital journal showcasing the shortlisted submissions, innovative teaching tools, and collaborative educational projects developed during this year's event.
