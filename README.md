@@ -1,5 +1,7 @@
 # TeachAthon 2026
 
+Shortlisted and reserve teams have now been contacted via email.
+---
 Shortlisted teams will be contacted individually by **noon today, Thursday 29 October**.
 Teams must confirm by **noon tomorrow, Friday 30 October**, that they can present on **Monday 2 November**.
 Any places not confirmed by the deadline will be offered to reserve teams from noon on Friday 30 October (reserved teams will be give a heads up today October 30th, noon, as well).
