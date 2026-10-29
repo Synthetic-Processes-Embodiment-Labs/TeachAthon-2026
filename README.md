@@ -1,6 +1,11 @@
 # TeachAthon 2026
 
-Submissions are now OPEN > https://forms.cloud.microsoft/e/KNKR480ALc
+Shortlisted teams will be contacted individually by **noon today, Thursday 29 October**.
+Teams must confirm by **noon tomorrow, Friday 30 October**, that they can present on **Monday 2 November**.
+Any places not confirmed by the deadline will be offered to reserve teams from noon on Friday 30 October (reserved teams will be give a heads up today October 30th, noon, as well).
+All times are UK time.
+---
+Submissions are closed :) 18 Final submissions.
 ---
 Submissions close at the **end of** Monday 26th, UK time.
 
